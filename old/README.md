@@ -12,7 +12,7 @@ hello, my name is ronak a begineer who start learning basics of HTML and CSS as 
 2. learn css selectors and semantic tags.
 
 # How to check my work
-<a herf"https://github.com/ronak01-tech/bca-practical/blob/main/index.html"> work </a>
+<a herf"https://ronak01-tech.github.io/bca-practical/"> work </a>
 
 # Technologies Used
 1. HTML5
